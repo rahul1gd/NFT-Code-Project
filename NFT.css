@@ -1,0 +1,104 @@
+body{
+  background-color: hsl(217, 54%, 11%);
+}
+
+.main{
+  position: relative;
+  left: 25px;
+  top: 25px;
+  border-radius: 8px;
+  width: 275px;
+  height: 257px;
+}
+
+.first-container{
+  color: hsl(215, 32%, 27%);
+  width: 323px;
+  height: 544px;
+  position: relative;
+  box-shadow: 0px 0px 13px 7px rgba(0,0,0,0.30);
+  left: 588px;
+  border-radius: 20px;
+  top: 86px;
+  bottom: 250px;
+  margin-bottom: 163px;
+}
+
+h3{
+  color: white;
+  margin-left: 24px;
+  margin-top: 47px;
+  font-weight: 600;
+  font-size: 19px;
+}
+
+.P{
+  margin-left: 24px;
+  font-size: 16px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 100;
+  color: hsl(215, 32%, 27%);
+}
+
+.ethereum{
+  width: 3%;
+  position: relative;
+  top: 10px;
+  left: 24px;
+}
+
+.p1{
+  position: relative;
+  left: 41px;
+  bottom: 22px;
+  font-size: 13px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 300;
+  color: hsl(0, 0%, 100%);
+}
+
+.clock{
+  width: 4%;
+  position: absolute;
+  margin-left: 209px;
+  top: 411px;
+}
+
+.p2{
+  font-size: 13px;
+  position: absolute;
+  left: 227px;
+  top: 397px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 100;
+}
+
+hr{
+  width: 86%;
+  position: absolute;
+  bottom: 79px;
+  left: 24px;
+  background-color: hsl(215, 32%, 27%);
+}
+
+.avatar{
+  width: 9%;
+  position: relative;
+  top: 12px;
+  border: 1px solid white;
+  border-radius: 30px;
+  left: 23px;
+}
+
+.p3{
+  position: relative;
+  font-size: 13px;
+  font-family: 'Outfit', sans-serif;
+  left:65px;
+  bottom: 27px;
+}
+
+bold{
+  color: hsl(0, 0%, 100%);
+  padding-left: 2px;
+}
